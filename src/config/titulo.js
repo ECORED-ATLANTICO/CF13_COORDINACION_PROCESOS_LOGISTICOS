@@ -1,1 +1,1 @@
-module.exports = 'Titulo del componente formativo'
+module.exports = 'Dirigir el talento humano'
